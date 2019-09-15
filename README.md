@@ -1,2 +1,2 @@
-# Just an experimental project!
-Learning a new things like git is very challanging for me!
+# Trying new CSS framework Bulma
+And also trying new text editor VS Code and git on it!
